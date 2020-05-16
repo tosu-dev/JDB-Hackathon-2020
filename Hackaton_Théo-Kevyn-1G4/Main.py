@@ -249,7 +249,7 @@ window.geometry("1080x720")
 window.minsize(1080, 720)
 window.maxsize(1080, 720)
 window.config(background=bg)
-window.iconbitmap("rsrc/logo.ico")
+window.iconbitmap("rsrc/Paomedia-Small-N-Flat-Book.ico")
 
 # _____MAIN FRAMES_____
 leftFrame = Frame(window, bg=bg)
