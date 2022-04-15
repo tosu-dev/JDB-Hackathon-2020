@@ -12,3 +12,5 @@ A la fin d'une série, les cartes se mélangent et une nouvelle série arrive, l
 L'application se termine quand on connait toutes ses dates par coeur.
 
 Pour lancer l'application, il suffit d'exécuter le fichier "HistoryFlashcards.exe" ou de lancer le script "main.py".
+
+![JDB-Hackathon-2020_img](https://user-images.githubusercontent.com/59777055/163547028-9815b0f8-4637-487a-9f21-7f41059e00b4.PNG)
